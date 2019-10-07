@@ -17,7 +17,7 @@
 
 Run adhd at startup
 
-`$ adhd startup`
+`$ adhd intensifies`
 
 ## What Does It Do
 
