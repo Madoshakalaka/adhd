@@ -29,7 +29,7 @@ Keep myself highly focused on work
 
 ## How to Use
 
-First, register any number of different devices by having the `adhd` running on it.
+First, register any number of different devices by having `adhd` running on it.
 
 For example I have a Windows tablet and PC.
 
