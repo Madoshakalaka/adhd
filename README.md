@@ -15,7 +15,7 @@
 
 `$ pip install adhd`
 
-Run adhd at startup
+Setup `adhd` at startup (and run in the background if not already)
 
 `$ adhd intensifies`
 

@@ -13,9 +13,14 @@ pipenv-setup = "~=2.1"
 black = "==19.3b0"
 tox-travis = "==0.12"
 pytest = "~=5.2"
+pytest-mock = "~=1.11"
+mypy = "*"
 
 [packages]
 
 [scripts]
 build = 'python setup.py sdist'
 release = 'python -m twine upload dist/*'
+
+[requires]
+python_version = "3.7"
