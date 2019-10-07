@@ -42,7 +42,7 @@ Then any operation on registered devices will be monitored for 1 hour.
 Operation can include: Mouse movement, mouse clicks, and key presses.
 
 During the hour, if an inactivity of 10 seconds is detected anytime. There will be alert messages popping up on the 
-screen.
+screen across all devices.
 
 If an inactivity of 20 seconds is detected, e-mails will be automatically sent to ALL MY G-MAIL CONTACTS with the 
 following content:
