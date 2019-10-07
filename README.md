@@ -53,7 +53,7 @@ Matt is not concentrating on his work
 
 To have an emergency stop (alien invasion or earthquakes or something)
 
-`$ adhd cured --password shitishouldneverpauseadhd`
+`$ adhd cured --password ahherewegoagain`
 
 When the emergency is resolved
 
